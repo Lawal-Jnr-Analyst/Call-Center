@@ -24,10 +24,10 @@ The primary objective was to identify bottlenecks in call volume, understand the
 - Channel Efficiency: Since Chatbots handle 25% of the volume, further investing in AI-driven resolutions for billing could significantly reduce the load on human agents.
 
 ## 🖥️ Preview
-[Executive Summary Page](https://github.com/Lawal-Jnr-Analyst/Pizza-Sales-Report/blob/main/Pizza%20sales_page-0001.jpg)
+[Executive Summary Page](https://github.com/Lawal-Jnr-Analyst/Call-Center/blob/main/Call%20Center%20(1).jpg)
 >click the link above to see a preview of the final dashboard.
 
-[Granular Data Table View](https://github.com/Lawal-Jnr-Analyst/Pizza-Sales-Report/blob/main/Pizza%20sales_page-0002.jpg)
+[Granular Data Table View](https://github.com/Lawal-Jnr-Analyst/Call-Center/blob/main/Call%20Center%20(2).jpg)
 >click the link above to see a preview of the final dashboard.
 
 
