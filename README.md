@@ -27,7 +27,7 @@ The primary objective was to identify bottlenecks in call volume, understand the
 [Executive Summary Page](https://github.com/Lawal-Jnr-Analyst/Call-Center/blob/main/Call%20Center%20(1).jpg)
 >click the link above to see a preview of the final dashboard.
 
-[Granular Data Table View](https://www.linkedin.com/posts/lawal-jnr-analyst_powerbi-datavisualization-sql-activity-7437468898700107776-7cCr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdwX3YBH9XbhvRdRK9JiftNAwAPCSVEZLY)
+[Granular Data Table View](https://github.com/Lawal-Jnr-Analyst/Call-Center/blob/main/Call%20Center%20(2).jpg)
 >click the link above to see a preview of the final dashboard.
 
 
