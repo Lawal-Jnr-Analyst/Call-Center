@@ -24,11 +24,9 @@ The primary objective was to identify bottlenecks in call volume, understand the
 - Channel Efficiency: Since Chatbots handle 25% of the volume, further investing in AI-driven resolutions for billing could significantly reduce the load on human agents.
 
 ## 🖥️ Preview
-[Executive Summary Page](https://github.com/Lawal-Jnr-Analyst/Call-Center/blob/main/Call%20Center%20(1).jpg)
->click the link above to see a preview of the final dashboard.
+[Call Center Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWI0OTYyYTAtNDQxMC00ZDRkLThhMmYtOTkzZDczMDdkMWFiIiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9)
+>The full interactive dashboard is available via the link above.
 
-[Granular Data Table View](https://github.com/Lawal-Jnr-Analyst/Call-Center/blob/main/Call%20Center%20(2).jpg)
->click the link above to see a preview of the final dashboard.
 
 
 #### 🧑‍💻Author: [Lawal-Jnr-Analyst](https://github.com/Lawal-Jnr-Analyst)
